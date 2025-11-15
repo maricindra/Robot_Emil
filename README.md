@@ -38,12 +38,12 @@ File Package.json:
 
 # Lading Page 3D Responsivo
 Ferramentas:
-- Tailwind css -  Framework de Estilos configurado para designs responsivos
-- React - Estrutura encapsulada para a reutilização do codigo
-- Javascript - Configurações de botões especificos para a visibilidade para diferentes dispositivos
-- AOS - biblioteca que adiciona efeitos visuais (animações) aos elementos da página à medida que o usuário movimenta o  scroll do mouse ( Para cima e para baixo)
-- Spline - Para criação do Objeto 3D
-- Boxicons Biblioteca para Baixar icones vetorias no Projeto: https://v2.boxicons.com/usage
+- Tailwind css -  Framework de Estilos configurado para designs responsivos.
+- React - Estrutura encapsulada para a reutilização do código.
+- Javascript - Configurações de botões específicos para a visibilidade de diferentes tipos de dispositivos.
+- AOS - biblioteca que adiciona efeitos visuais (animações) aos elementos da página à medida que o usuário movimenta o  scroll do mouse.
+- Spline - Para criação do Objeto 3D.
+- Boxicons - Biblioteca para Baixar icones vetorias no Projeto: https://v2.boxicons.com/usage
 -------------------------------
 Principais comandos usados
 0.0	mkdir Robot_emil	(Cria a pasta/diretório Robot_emil)
