@@ -1,4 +1,10 @@
 # Lading Page 3D Responsive
+
+<img width="1751" height="889" alt="image" src="https://github.com/user-attachments/assets/20f23119-85c5-45d7-88e7-a4e403b869a3" />
+
+<img width="1884" height="1076" alt="image" src="https://github.com/user-attachments/assets/cf613594-29c2-462b-8cd6-13cbdf70d952" />
+
+
 Tools:
 - Tailwind CSS	     - CSS Framework configured for responsive designs.
 - React	             - Encapsulated structure for code reusability (Component-Based UI Library).
@@ -9,9 +15,10 @@ Tools:
 ------------------------------------------
 Terminal git bash commands:
 First, make the path:
+-
 0.0 mkdir Robot_emil                                           ( Make the folder)  
 0.1 CD Robot_emil                                             ( Into Robot_emil folder )
----
+-
 1. npm install                                               ( Install modules of node.js library )
 2. npm create vite@latest ./                                ( Make the vite project in the last version )
 3. npm install -D tailwindcss postcss autoprefixer         ( Install Tailwind and postcss settings for all types of browsers )
@@ -27,13 +34,6 @@ File Package.json:
 "Homepage":""
 "predeploy":""
 "deploy":""
-
-
-
-<img width="1751" height="889" alt="image" src="https://github.com/user-attachments/assets/20f23119-85c5-45d7-88e7-a4e403b869a3" />
-
-<img width="1884" height="1076" alt="image" src="https://github.com/user-attachments/assets/cf613594-29c2-462b-8cd6-13cbdf70d952" />
-
 
 
 # Lading Page 3D Responsivo
