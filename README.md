@@ -4,6 +4,7 @@ Tools:
 - React
 - Javascript
 - AOS
+- Spline
 -------------------------------
 
 
